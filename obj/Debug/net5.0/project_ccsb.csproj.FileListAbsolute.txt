@@ -743,3 +743,5 @@ D:\scrum\project_ccsb\obj\Debug\net5.0\project_ccsb.dll
 D:\scrum\project_ccsb\obj\Debug\net5.0\ref\project_ccsb.dll
 D:\scrum\project_ccsb\obj\Debug\net5.0\project_ccsb.pdb
 D:\scrum\project_ccsb\obj\Debug\net5.0\project_ccsb.genruntimeconfig.cache
+D:\scrum\project_ccsb\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+D:\scrum\project_ccsb\bin\Debug\net5.0\libman.json

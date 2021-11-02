@@ -12,7 +12,7 @@ namespace project_ccsb.Models
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext>options)
             : base(options)
         {
-
+             
         }
     }
 }
