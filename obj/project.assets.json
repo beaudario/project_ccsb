@@ -6484,23 +6484,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\psnqu\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Dario\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\scrum\\project_ccsb\\project_ccsb.csproj",
+      "projectUniqueName": "E:\\School\\Project CCSB\\Project_CCSB\\project_ccsb.csproj",
       "projectName": "project_ccsb",
-      "projectPath": "D:\\scrum\\project_ccsb\\project_ccsb.csproj",
-      "packagesPath": "C:\\Users\\psnqu\\.nuget\\packages\\",
-      "outputPath": "D:\\scrum\\project_ccsb\\obj\\",
+      "projectPath": "E:\\School\\Project CCSB\\Project_CCSB\\project_ccsb.csproj",
+      "packagesPath": "C:\\Users\\Dario\\.nuget\\packages\\",
+      "outputPath": "E:\\School\\Project CCSB\\Project_CCSB\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\psnqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Dario\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6569,7 +6565,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
