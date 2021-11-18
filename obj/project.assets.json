@@ -6501,11 +6501,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\School\\Project CCSB\\project_ccsb\\project_ccsb.csproj",
+      "projectUniqueName": "E:\\School\\Project CCSB\\Project_CCSB\\project_ccsb.csproj",
       "projectName": "project_ccsb",
-      "projectPath": "E:\\School\\Project CCSB\\project_ccsb\\project_ccsb.csproj",
+      "projectPath": "E:\\School\\Project CCSB\\Project_CCSB\\project_ccsb.csproj",
       "packagesPath": "C:\\Users\\Dario\\.nuget\\packages\\",
-      "outputPath": "E:\\School\\Project CCSB\\project_ccsb\\obj\\",
+      "outputPath": "E:\\School\\Project CCSB\\Project_CCSB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6575,7 +6575,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

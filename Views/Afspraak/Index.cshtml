@@ -1,0 +1,9 @@
+﻿<div class="row">
+    <div class="container">
+        <div class="form-group col-4" id="divKlantenLijst">
+            <label>Selecteer Klant</label>
+            @Html.DropDownList("doctorId", new SelectList(ViewBag.KlantenList, "Id", "Name"),
+                new { @class = "form-control select2" })
+        </div>
+    </div>
+</div>

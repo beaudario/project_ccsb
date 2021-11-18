@@ -10,7 +10,12 @@ namespace project_ccsb.Services
     {
         public List<KlantViewModel> GetKlantList()
         {
-            var klanten = (from user in _db.Users)
+            var klanten = new KlantViewModel
+            {
+                
+            };
+
+            return klanten;
         }
 
     }
