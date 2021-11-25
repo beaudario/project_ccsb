@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\School\\Project CCSB\\project_ccsb\\project_ccsb.csproj": {}
+    "D:\\scrum\\project_ccsb\\project_ccsb.csproj": {}
   },
   "projects": {
-    "E:\\School\\Project CCSB\\project_ccsb\\project_ccsb.csproj": {
+    "D:\\scrum\\project_ccsb\\project_ccsb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\School\\Project CCSB\\project_ccsb\\project_ccsb.csproj",
+        "projectUniqueName": "D:\\scrum\\project_ccsb\\project_ccsb.csproj",
         "projectName": "project_ccsb",
-        "projectPath": "E:\\School\\Project CCSB\\project_ccsb\\project_ccsb.csproj",
-        "packagesPath": "C:\\Users\\Dario\\.nuget\\packages\\",
-        "outputPath": "E:\\School\\Project CCSB\\project_ccsb\\obj\\",
+        "projectPath": "D:\\scrum\\project_ccsb\\project_ccsb.csproj",
+        "packagesPath": "C:\\Users\\psnqu\\.nuget\\packages\\",
+        "outputPath": "D:\\scrum\\project_ccsb\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Dario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\psnqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,9 +43,29 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
               "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.12, )"
             }
           },
           "imports": [
